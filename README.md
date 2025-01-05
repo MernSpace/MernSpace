@@ -27,7 +27,7 @@ Saharul Sifat, an indie full-stack developer of the digital world, one pixel at 
 
 ### 📺 Latest YouTube Videos
 <br>
-#https://varcel-blog-post-frontend-r6hut9ol6-saharul-sifats-projects.vercel.app/
+#https://saharul-sifats.vercel.app/
 
 #
 
